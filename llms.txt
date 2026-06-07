@@ -1,0 +1,9 @@
+# Info foto social 846
+> Moderní kulinářský blog se sídlem v městě Brno, Jihomoravský.
+
+## Obsah webu
+- [Hlavní stránka](/index.html): Přehled publikací.
+- [O nás](/about.html): Kdo jsme a co děláme.
+- [Kontakt](/contact.html): Formulář a adresa.
+## Publikace
+- [Jak správně doplňovat vitaminy během roku](/jak-spravne-doplnovat-vitaminy-behem-roku.html)
